@@ -6,7 +6,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to Arjunshankar Menon's Website</h1>
+        <h1>Welcome to my Website</h1>
     </header>
 
     <nav>
@@ -19,7 +19,10 @@
             <p>Hey and welcome to my website. I'm Arjunshankar Menon, ola and I'm excited to share my journey and experiences with you.</p>
         </section>
 
-        <!-- Add more sections for your website content here -->
+        <section>
+            <p> I am a 3rd year pursuing Mechanical Engineering in Manipal Institute of Technology!</p>
+        </section>
+        
     </main>
 
     <footer>
