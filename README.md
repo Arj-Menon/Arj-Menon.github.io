@@ -16,7 +16,7 @@
     <main>
         <section>
             <h2>About Me</h2>
-            <p>Hey and welcome to my website. I'm Arjunshankar Menon, and I'm excited to share my journey and experiences with you.</p>
+            <p>Hey and welcome to my website. I'm Arjunshankar Menon, ola and I'm excited to share my journey and experiences with you.</p>
         </section>
 
         <!-- Add more sections for your website content here -->
